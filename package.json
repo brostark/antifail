@@ -1,0 +1,30 @@
+{
+  "name": "antifail",
+  "version": "1.0.0",
+  "description": "Some good tools to prevent from fails !",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brostark/antifail.git"
+  },
+  "keywords": [
+    "brostark",
+    "antifail",
+    "utils",
+    "js",
+    "javascript"
+  ],
+  "author": "BroStark Engineering",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/brostark/antifail/issues"
+  },
+  "homepage": "https://github.com/brostark/antifail#readme",
+  "devDependencies": {
+    "eslint": "^5.16.0",
+    "jest": "^24.7.1"
+  }
+}
